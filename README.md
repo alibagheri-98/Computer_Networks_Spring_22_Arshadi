@@ -10,3 +10,6 @@ In this repository, there is a data networks homework assignments that I created
 - The Network Layer \(control plane\)
 - The Data Link Layer
 - The Security Layer
+
+Note:
+The course is instructed in Persian (Farsi) language.
